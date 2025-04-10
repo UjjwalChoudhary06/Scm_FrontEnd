@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+    background-size: cover;
+    background-position: center;
+    background-color: cadetblue;
+
+}
+.container h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration: underline;
+}

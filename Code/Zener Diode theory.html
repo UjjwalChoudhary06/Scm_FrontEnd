@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="subjects.css">
+</head>
+<body>
+    <iframe width="1500" height="600" src="https://www.youtube.com/embed/XhQqtdTlRus?si=zkmyYaaWjUDIzOMW" title="PN Junction Diode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="container">
+        <div class="flex-item">
+            <h2>Theory</h2>
+                    <p>A <strong>Zener Diode</strong> is a semiconductor diode designed to allow current flow in both the forward direction, as with a normal diode, and the reverse direction if the voltage is above a certain threshold known as the Zener breakdown voltage. It has extensive applications in electronics such as voltage regulation, generation of reference voltage, and circuit protection.</p>
+                
+                    <h3>1. Structure and Characteristics</h3>
+                    <p><strong>P-N Junction:</strong> A Zener diode is just a P-N junction similar to a standard diode, but in a Zener diode, the doping levels of the P and N materials are significantly higher, which causes a very thin depletion region.</p>
+                    <p><strong>Zener Breakdown Voltage:</strong> The Zener breakdown voltage is kept constant during the manufacturing process. Design can range from a few volts to hundreds of volts.</p>
+                    <p><strong>Forward and Reverse Bias:</strong> In the forward bias, a Zener diode works exactly like any other diode. It will start conducting the current if the applied voltage is above 0.7V in case of silicon Zener diodes. In the reverse bias, the Zener diode will allow the current flow after the reverse voltage has passed the breakdown voltage of the Zener.</p>
+                
+                    <h3>2. Working Principle</h3>
+                    <p><strong>Zener Breakdown:</strong> When the applied reverse voltage across the Zener diode reaches its Zener breakdown voltage, the electric field in the depletion region becomes strong enough to pull the electrons from their valence bonds and hence creates a large number of electron-hole pairs. Therefore, current increases abruptly with this phenomenon known as Zener breakdown. The high current still maintains the voltage across the diode constant at about the breakdown voltage.</p>
+                    <p><strong>Avalanche Breakdown:</strong> Above about 5V of breakdown voltage, the reverse voltage causes Zener diodes to experience avalanche rather than Zener breakdown. In avalanche breakdown, when reverse voltage builds up a sufficient amount of kinetic energy for free electrons, free electrons collide with the atoms present in the crystal lattice; it knocks free additional electrons.</p>
+                
+                    <h3>3. Applications of Zener Diode</h3>
+                    <p><strong>Voltage Regulation:</strong> The most common application of a Zener diode is in voltage regulation. When connected in reverse bias across a load, the Zener diode maintains a constant output voltage equal to its breakdown voltage, independent of fluctuations in the input voltage or load current, provided that the input voltage is above the breakdown threshold.</p>
+                    <p><strong>Voltage Reference:</strong> Zener diodes can be used to develop circuits with stable reference voltages, especially in applications, such as ADCs or other high-precision measurements.</p>
+                    <p><strong>Overvoltage Protection:</strong> Overvoltage, or more than what it is designed for, inputting into the circuit causes all excess voltage to be conducted to ground. This limits the applied voltage because no voltage will be passed further than this point until reset.</p>
+                
+                    <h3>4. Circuit Configurations</h3>
+                    <p>In a <strong>shunt regulator</strong>, this circuit connects the Zener diode in parallel to the load and biases in reverse. When the applied input voltage is greater than the Zener voltage, it conducts and maintains the same voltage across the load.</p>
+                    <p><strong>Series Regulator with Zener Reference:</strong> The Zener diode can be employed as a reference element in series regulator circuits where a constant reference voltage is supplied and it controls elements like transistors to control the output.</p>
+                
+                    <h3>5. Advantages and Disadvantages</h3>
+                    <p><strong>Advantages:</strong></p>
+                    <ul>
+                        <li>It provides stable reliable voltage regulation.</li>
+                        <li>Simple inexpensive.</li>
+                        <li>Fast response to a change in voltage.</li>
+                    </ul>
+                    <p><strong>Disadvantages:</strong></p>
+                    <ul>
+                        <li>Poor power handling.</li>
+                        <li>Not suitable for High current applications due to waste of heat.</li>
+                        <li>High precision relies on the qualities and characteristics of the Diode.</li>
+                    </ul>
+                
+                    <h3>6. Selection of Zener Diodes</h3>
+                    <p><strong>Voltage Rating:</strong> To have a nearly constant regulated output voltage, the rating should be at an approximate breakdown voltage.</p>
+                    <p><strong>Power Rating:</strong> It must be one whose power rating is considerably higher than the average power it will actually handle since the Zener Diode can easily get hotter.</p>
+                
+                    <h3>7. Limitations and Modern Application</h3>
+                    <p>In regard to the uses of this diode, it happens to be most suitable to low power applications and applications involving small signal, which is not employed in any high power application since integrated circuits and switching regulators work out to be relatively more effective with higher currents being tolerated.</p>
+                    <p>Zener diode is one of the oldest forms, yet remains very important with respect to use in any electronic circuit with its application in voltage stability and ease as well as simplicity and high reliability, contributing significantly toward voltage regulation as well as protection.</p>
+                </p>
+                
+</div>
+</div>
+<div class="container">
+    <div class="flex-item">
+        <h2>Practical</h2>
+        <a href="Zener Diode Practical.html" class="btn">Learn</a></div>
+    </div>
+</body>
+</html>

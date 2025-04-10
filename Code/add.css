@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    max-width: 1200px;
+    width: 95%;
+
+}
+.slide .imagelist{
+    display: grid;
+    margin: 20px;
+    grid-template-columns: repeat(10,1fr);
+    overflow-x: auto;
+    scrollbar-width: none;
+}
+.slide .imagelist .image{
+    width: 600px;
+    height: 350px;
+
+    /* object-fit: cover; */
+    margin: 20px;
+
+}.slide .imagelist ::-webkit-scrollbar{
+    display: none;
+}
