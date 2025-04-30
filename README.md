@@ -42,3 +42,5 @@ Whether you're an educator looking to share knowledge or a student striving to g
 # Clone the repository
 git clone https://github.com/UjjwalChoudhary06/Scm_FrontEnd.git
 cd Scm_FrontEnd
+```
+We're still working to make your experience better with regular improvements and new features in future updates.
