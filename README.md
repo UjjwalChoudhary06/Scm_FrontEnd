@@ -33,7 +33,6 @@ Whether you're an educator looking to share knowledge or a student striving to g
 |--------|-------------|
 | Course Management | Instructors can create, update, and organize courses and modules. |
 | Multimedia Support | Upload and stream videos, PDFs, and audio files. |
-| Assessments | Built-in quiz engine and assignment submission tools. |
 | Analytics | Track student engagement, progress, and performance. |
 | Discussions | Integrated forums and chat for peer interaction. |
 | Payments | Subscription and pay-per-course models via Stripe integration. |
