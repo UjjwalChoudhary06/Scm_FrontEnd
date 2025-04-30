@@ -74,5 +74,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🚧 Coming soon at mindforge.io
 
 📬 Contact
-For questions, feedback, or support, contact us at support@mindforge.io
+For questions, feedback, or support, contact us at support@mindforge.com or +918561956711
 We're still working to make your experience better with regular improvements and new features in future updates.
