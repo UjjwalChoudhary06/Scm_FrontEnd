@@ -43,4 +43,36 @@ Whether you're an educator looking to share knowledge or a student striving to g
 git clone https://github.com/UjjwalChoudhary06/Scm_FrontEnd.git
 cd Scm_FrontEnd
 ```
+📈 Roadmap
+ Mobile app (React Native / Flutter)
+
+ AI-based course recommendations
+
+ Gamification elements (badges, XP)
+
+ Multi-language support
+
+ SCORM/xAPI integration
+
+🤝 Contributing
+We welcome contributions! To contribute:
+
+Fork the repository.
+
+Create your feature branch (git checkout -b feature/your-feature-name).
+
+Commit your changes (git commit -m 'Add your message here').
+
+Push to the branch (git push origin feature/your-feature-name).
+
+Open a Pull Request.
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🌐 Live Demo
+🚧 Coming soon at mindforge.io
+
+📬 Contact
+For questions, feedback, or support, contact us at support@mindforge.io
 We're still working to make your experience better with regular improvements and new features in future updates.
