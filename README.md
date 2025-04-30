@@ -13,8 +13,6 @@ MindForge is a full-featured e-learning platform that supports:
 
 Whether you're an educator looking to share knowledge or a student striving to grow your skills, MindForge brings learning to your fingertips.
 
----
-
 ## 🛠 Tech Stack
 
 **Frontend**: React.js / Next.js  
