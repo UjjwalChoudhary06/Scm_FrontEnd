@@ -6,7 +6,6 @@ MindForge is a full-featured e-learning platform that supports:
 
 - 📚 Course creation and management
 - 🎥 Video lectures and content hosting
-- ✍️ Interactive quizzes and assignments
 - 👨‍🏫 Instructor dashboards and analytics
 - 👩‍🎓 Student progress tracking
 - 💬 Real-time discussions and community engagement
